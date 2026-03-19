@@ -1,1 +1,3 @@
-Hi! I like to do some stuff
+**Hi! I am Dekompilyator.**
+
+**I am beginner developer, mainly focusing on phones fimrware.*
